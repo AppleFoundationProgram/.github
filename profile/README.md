@@ -19,6 +19,14 @@ This app helps users deal with small traumas and negative emotions in a positive
   <img src="https://github.com/user-attachments/assets/03d29035-4916-4261-b421-e075713f8f24" width="15%">
 </p>
 
+
+---
+
+## 앱 스토어 링크 | App Store Link
+
+- CrumpDump는 [앱 스토어](https://apps.apple.com/kr/app/crumpdump/id6737130375)에서 다운로드할 수 있습니다.  
+- CrumpDump is available on the [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375).
+
 ---
 
 ## 📖 목차 | Table of Contents
@@ -26,8 +34,7 @@ This app helps users deal with small traumas and negative emotions in a positive
 - [주요 기능](#주요-기능) | Key Features  
 - [기술 스택](#기술-스택) | Tech Stack  
 - [주의사항](#주의사항) | Cautions  
-- [프로젝트 배경](#프로젝트-배경) | Project Background  
-- [앱 스토어 링크](#앱-스토어-링크) | App Store Link  
+- [프로젝트 배경](#프로젝트-배경) | Project Background
 - [문의](#문의) | Contact  
 
 ---
@@ -82,13 +89,6 @@ This app helps users deal with small traumas and negative emotions in a positive
 
 - 이 프로젝트는 **Apple Developer Academy @POSTECH**의 **Foundation Program 4기** 결과물입니다.  
 - This project was developed during the Apple Developer Academy @POSTECH as part of Foundation Program 4th Cohort.
-
----
-
-## 앱 스토어 링크 | App Store Link
-
-- CrumpDump는 [앱 스토어](https://apps.apple.com/kr/app/crumpdump/id6737130375)에서 다운로드할 수 있습니다.  
-- CrumpDump is available on the [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375).
 
 ---
 
