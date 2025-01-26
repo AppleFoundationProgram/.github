@@ -1,5 +1,7 @@
 # CrumpDump
 
+[앱 스토어 바로가기](https://apps.apple.com/kr/app/crumpdump/id6737130375) | [Visit App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375)
+
 CrumpDump는 감정을 기록하고 해소하는 데 도움을 주는 iOS 앱입니다.  
 사용자는 감정을 선택하고 종이 쪽지에 그 감정을 적은 후, 이를 가상으로 구기고 던지는 행위를 통해 감정을 표현하고 정화할 수 있습니다.  
 던진 쪽지는 귀여운 개구리 인형이 먹어 치우며 감정을 없애주는 상징적인 역할을 합니다.  
@@ -18,14 +20,6 @@ This app helps users deal with small traumas and negative emotions in a positive
   <img src="https://github.com/user-attachments/assets/a0962735-36df-42c9-9eee-f0e6ef929ebc" width="15%">
   <img src="https://github.com/user-attachments/assets/03d29035-4916-4261-b421-e075713f8f24" width="15%">
 </p>
-
-
----
-
-## 앱 스토어 링크 | App Store Link
-
-- CrumpDump는 [앱 스토어](https://apps.apple.com/kr/app/crumpdump/id6737130375)에서 다운로드할 수 있습니다.  
-- CrumpDump is available on the [App Store](https://apps.apple.com/kr/app/crumpdump/id6737130375).
 
 ---
 
